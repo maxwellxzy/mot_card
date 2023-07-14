@@ -1,40 +1,40 @@
 ############# French navigation ##############
 
 [[main]]
-name = "Accueil"
+name = "首页"
 url = ""
 weight = 1
 
 [[main]]
-name = "Faq"
+name = "问答"
 url = "faq/"
 weight = 2
 
 [[main]]
-name = "contact"
+name = "联系我们"
 url = "contact/"
 weight = 3
 
 # Dropdown menu
 [[main]]
 weight = 4
-name = "docs"
+name = "文档"
 hasChildren = true
 
   [[main]]
-  parent = "docs"
-  name = "Installation"
+  parent = "文档"
+  name = "安装"
   url = "installation/"
   weight = 1
 
   [[main]]
-  parent = "docs"
-  name = "Billing and Pricing"
+  parent = "文档"
+  name = "订单价格"
   url = "billing-pricing/"
   weight = 2
 
   [[main]]
-  parent = "docs"
-  name = "Features"
+  parent = "文档"
+  name = "产品特性"
   url = "features/"
   weight = 3

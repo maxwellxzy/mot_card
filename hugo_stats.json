@@ -261,7 +261,6 @@
       "emphasis",
       "en",
       "example-of-code-block",
-      "fr",
       "gallery",
       "global-site-parameters",
       "heading-1",
@@ -283,6 +282,7 @@
       "message",
       "name",
       "navigation",
+      "new-yt-video",
       "notice",
       "ordered-list",
       "paragraph",
@@ -307,7 +307,8 @@
       "title-will-i-get-lifetime-updates",
       "title-will-updates-also-be-free",
       "unordered-list",
-      "youtube-video"
+      "youtube-video",
+      "zh"
     ]
   }
 }

@@ -243,8 +243,14 @@ Markdown | Less | Pretty
 ### Youtube video
 
 {{< youtube ResipmZmpDU >}}
+</hr>
+
+### new YT video
 
 <hr>
+{{< youtube pnkCEzwiSog >}}
+
+</hr>
 
 ### Custom video
 

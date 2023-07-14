@@ -32,7 +32,7 @@ custom_script = ""
 
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "苏州市民卡有限公司 版权所有"
 
 # Preloader
 [preloader]

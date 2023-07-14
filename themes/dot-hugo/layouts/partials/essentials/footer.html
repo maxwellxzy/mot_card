@@ -6,8 +6,8 @@
         <p>
           {{ site.Params.copyright | markdownify }}
           {{ if site.Params.theme_copyright }}
-          | Theme by
-          <a target="_blank" rel="noopener noreferrer" href="https://gethugothemes.com/">GetHugoThemes</a>
+          &copy;{{now.Format "2006"}} | 
+          <a target="_blank" rel="noopener noreferrer" href="/">{{site.Title}}</a>
           {{ end }}
         </p>
       </div>

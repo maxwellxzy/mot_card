@@ -1,0 +1,14 @@
+- id: topics_title
+  translation: 主题分类
+
+- id: send
+  translation: 发送
+
+- id: search
+  translation: 搜索
+
+- id: search_placeholder
+  translation: 搜索...
+
+- id: search_result
+  translation: 搜索结果：
