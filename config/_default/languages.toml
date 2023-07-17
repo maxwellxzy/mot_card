@@ -4,7 +4,7 @@
 [en]
 languageName = "English|英文"
 languageCode = "en-us"
-weight = 1
+weight = 2
 
 # ------------------------------------------------------------
 # Chinese language
@@ -12,4 +12,4 @@ weight = 1
 [zh]
 languageName = "Chinese|中文"
 languageCode = "zh-cn"
-weight = 2
+weight = 1
