@@ -35,6 +35,6 @@ hasChildren = true
 
   [[main]]
   parent = "文档"
-  name = "产品特性"
-  url = "features/"
+  name = "NFC"
+  url = "mobile/"
   weight = 3

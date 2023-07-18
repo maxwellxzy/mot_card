@@ -280,6 +280,7 @@
       "inline-html",
       "install-the-theme",
       "launching-the-website-locally",
+      "lets-talk-about-nfc",
       "link",
       "mail",
       "message",
@@ -297,6 +298,7 @@
       "tab",
       "tables",
       "text-and-quote",
+      "the-combined-emphasis-with-asterisks-and-underscores",
       "this-is-title",
       "title",
       "title-any-refunds",
@@ -311,7 +313,10 @@
       "title-will-updates-also-be-free",
       "unordered-list",
       "youtube-video",
-      "zh"
+      "zh",
+      "一级标题",
+      "三级标题",
+      "二级标题"
     ]
   }
 }

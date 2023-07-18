@@ -34,6 +34,8 @@ Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
 The combined emphasis with **asterisks and *underscores***.
 
+---------
+
 Strike through uses two tildes. ~~Scratch this.~~
 
 {{< button "hello" "#" >}}
