@@ -1,9 +1,11 @@
 ---
-title: "手机NFC交通卡"
-date: 2023-06-28T11:02:05+06:00
+title: "开通手机NFC交通卡"
+date: 2023-07-19T13:02:05+08:00
 icon: "ti-package"
-description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
-type : "docs"
+description: "index"
+type: "docs"
+keywords: "index"
+weight: 99 
 ---
 
 # 一级标题

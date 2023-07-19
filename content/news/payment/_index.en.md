@@ -1,11 +1,10 @@
 ---
-title: "Windows"
+title: "Payment arrangements"
 date: 2022-12-29T11:02:05+06:00
 lastmod: 2023-01-05T10:42:26+06:00
-weight: 5
+weight: 4
 draft: false
 # search related keywords
-keywords: [""]
 ---
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
