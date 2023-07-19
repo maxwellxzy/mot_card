@@ -4,6 +4,8 @@ date: 2023-06-28T11:02:05+06:00
 icon: "ti-credit-card"
 description: "index"
 type : "docs"
+image: "https://www.clippercard.com/ClipperWeb/img/homepage/box-graphic-02.png"
+isindex: "yes"
 weight: 99
 ---
 

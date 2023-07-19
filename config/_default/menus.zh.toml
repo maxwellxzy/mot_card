@@ -2,36 +2,59 @@
 
 [[main]]
 name = "首页"
-url = ""
+url = "/"
 weight = 1
 
 [[main]]
-name = "问答"
-url = "faq/"
+name = "获取手机NFC交通卡"
+url = "mobile/"
 weight = 2
+hasChildren = true
+########### dropdown of mobile########333
+[[main]]
+parent = "获取手机NFC交通卡"
+name = "苹果"
+url = "mobile/apple"
+weight = 7
 
 [[main]]
-name = "联系我们"
-url = "contact/"
+parent = "获取手机NFC交通卡"
+name = "华为"
+url = "mobile/huawei"
+weight = 8
+
+[[main]]
+parent = "获取手机NFC交通卡"
+name = "小米"
+url = "mobile/xiaomi"
+weight = 9
+
+[[main]]
+parent = "获取手机NFC交通卡"
+name = "其他品牌"
+url = "mobile/others"
+weight = 10
+############# end of mobile ############3
+[[main]]
+name = "最新动态"
+url = "news/"
 weight = 3
 
-# Dropdown menu
 [[main]]
+name = "使用途径"
+url = "usage/"
 weight = 4
-name = "文档"
-hasChildren = true
 
-  [[main]]
-  parent = "文档"
-  name = "安装"
-  url = "installation/"
-  weight = 1
+[[main]]
+name = "服务"
+url = "faq/"
+weight = 5
 
-  [[main]]
-  parent = "文档"
-  name = "订单价格"
-  url = "billing-pricing/"
-  weight = 2
+[[main]]
+name = "关于"
+url = "about/"
+weight = 6
+# Dropdown menu
 
   [[main]]
   parent = "文档"

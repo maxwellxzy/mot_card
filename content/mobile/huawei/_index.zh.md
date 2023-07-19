@@ -1,8 +1,8 @@
 ---
-title: "Arch"
+title: "华为"
 date: 2022-12-29T11:02:05+06:00
 lastmod: 2023-01-05T10:42:26+06:00
-weight: 1
+weight: 2
 draft: false
 # search related keywords
 keywords: [""]
@@ -21,6 +21,7 @@ Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendiss
 {{< notice info >}}
   This is a simple info.
 {{</ notice >}}
+
 
 {{< tabs "code" >}}
 
@@ -63,7 +64,7 @@ Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna vari
 
 In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
-``` html
+```html
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">

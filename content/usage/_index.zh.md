@@ -5,4 +5,5 @@ icon: "ti-panel"
 description: "index"
 type: "docs"
 weight: 99
+isindex: "yes"
 ---

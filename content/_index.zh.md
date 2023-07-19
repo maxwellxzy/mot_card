@@ -7,8 +7,9 @@ banner:
 
 cta:
   enable: true
-  title: "不仅在苏州<br>全国公交地铁都支持"
-  content: "获取手机NFC交通卡（苏州发行，全国互通）"
+  title: "不仅在苏州，全国公交地铁都支持"
+  content: "获取手机NFC交通卡（苏州发行，全国互通）<br>
+  ![test](http://static.runoob.com/images/runoob-logo.png)"
 
   button:
     enable: true
