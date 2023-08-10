@@ -19,10 +19,20 @@ cta:
 
 [![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)](https://www.szcic.com/)
 -------
-### 支持的手机品牌
+### 众多手机品牌支持
 
-手机NFC交通卡支持以下品牌的手机或手表，具体型号可点击品牌名称查询： [小米](mobile/xiaomi) | [华为](mobile/huawei) | [苹果](mobile/apple) | [OPPO](mobile/oppo) | [vivo](mobile/vivo) | [三星](mobile/samsung) | [魅族、一加、摩托罗拉、联想、华米、小天才等](mobile/others) 。
+手机NFC交通卡支持大部分品牌的手机或手表，具体型号可点击品牌名称查询： [小米](mobile/xiaomi) | [华为](mobile/huawei) | [苹果](mobile/apple) | [OPPO](mobile/oppo) | [vivo](mobile/vivo) | [三星](mobile/samsung) | [魅族、一加、摩托罗拉、联想、华米、小天才等](mobile/others) 。
 
 [![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)](mobile/)
 
 --------
+### 优雅的刷卡乘车
+
+无需打开APP，无需点亮手机
+
+只要轻轻一靠，就能轻松过闸
+
+（苹果动图）
+
+--------
+### 公共交通优惠
