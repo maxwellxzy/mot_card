@@ -534,8 +534,8 @@
     this.h = d || ""
   }
   var ua = [
-    ["https://fonts.proxy.ustclug.org/css", "%7C"],
-    ["https://fonts.proxy.ustclug.org/css2", "&family="]
+    ["https://fonts.font.im/css", "%7C"],
+    ["https://fonts.font.im/css2", "&family="]
   ];
 
   function va(a, b) {
