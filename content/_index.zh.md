@@ -28,6 +28,7 @@ cta:
 {{< button "小米" "/mobile/xiaomi" >}}
 {{< button "苹果" "/mobile/apple" >}}
 {{< button "其它手机" "/mobile/others" >}}
+
 [{{< image src="images/nfc/111.jpg" >}}](mobile/)
 
 --------

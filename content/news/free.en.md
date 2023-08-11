@@ -7,7 +7,7 @@ type : "docs"
 image: "images/nfc/012.png"
 weight: 99
 ---
-## The following brands are offering a limited-time promotion of zero-cost card activation
+### The following brands are offering a limited-time promotion of zero-cost card activation
  Limited-time zero-cost card activation is available for the following brand smartphones (including wearable devices such as watches):
 
 Huawei, Xiaomi, Apple, OPPO, vivo, Samsung, Xiaotiancai, OnePlus, Moto, Meizu, Huami, ZTE.
@@ -15,7 +15,7 @@ Huawei, Xiaomi, Apple, OPPO, vivo, Samsung, Xiaotiancai, OnePlus, Moto, Meizu, H
 {{< image src="images/nfc/011.jpg" >}}
 
 -----
-## How to Add Transit Card
+### How to Add Transit Card
 
 Method 1: Download the "Smart Suzhou" app, click on "Mobile NFC Transit Card" in the middle of the homepage to activate. Supported brands include Apple, Huawei, Xiaomi, Samsung, OPPO, vivo, OnePlus, and more.
 
