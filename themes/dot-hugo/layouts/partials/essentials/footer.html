@@ -6,22 +6,22 @@
         <p>
           {{ site.Params.copyright | markdownify }}
           {{ if site.Params.theme_copyright }}
-          &copy;{{now.Format "2006"}} | 
-          <a target="_blank" rel="noopener noreferrer" href="/">{{site.Title}}</a>
+          &copy;{{now.Format "2006"}} </p><p>
           {{ end }}
         </p>
       </div>
-      <div class="col-md-4 text-center text-md-end">
+  <!--    <div class="col-md-4 text-center text-md-end">
         <ul class="list-inline">
           {{ range site.Params.social }}
           <li class="list-inline-item">
-            <a class="text-color d-inline-block p-2" href="{{ .link | safeURL }}" aria-label="{{ .name }}">
+            <a class="text-color d-inline-block p-2" href="#" aria-label="{{ .name }}">
               <span class="visually-hidden">{{.title}}</span>
-              <i class="{{ .icon }}"></i></a>
+              <i class="{{ .icon }}"></i></a> 
           </li>
           {{ end }}
         </ul>
-      </div>
+      </div> -->
+      <div class="text-center"><a class="text-color d-inline-block p-2" href="https://beian.miit.gov.cn"><p>苏ICP备11079911号</p></a></div>
     </div>
   </div>
 </footer>

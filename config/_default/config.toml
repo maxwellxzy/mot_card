@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://mot-card.disbaidu.com/"
-title = "Mot Card in Suzhou China"
+title = "苏州手机NFC交通卡"
 theme = ["dot-hugo"]
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "UTC"
