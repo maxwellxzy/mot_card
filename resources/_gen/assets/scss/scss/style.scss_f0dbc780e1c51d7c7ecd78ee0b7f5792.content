@@ -7933,7 +7933,7 @@ h2,
 .btn-primary {
   background: #02007e;
   color: #fff;
-  padding: 16px 44px;
+  padding: 16px 24px;
   font-weight: 600; }
   .btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary:focus, .btn-primary.focus {
     background: rgba(2, 0, 126, 0.8) !important;
