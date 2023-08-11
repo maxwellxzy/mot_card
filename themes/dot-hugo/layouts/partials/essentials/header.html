@@ -78,16 +78,16 @@
         <p class="text-white mb-4">
           {{ .subtitle | markdownify }}
         </p>
-        <form class="search-wrapper mt-2 mx-2 mx-lg-0" name="search-form" data-bs-toggle="modal" data-bs-target="#searchModal">
+ <!--       <form class="search-wrapper mt-2 mx-2 mx-lg-0" name="search-form" data-bs-toggle="modal" data-bs-target="#searchModal">
           <i class="search-icon ti-search"></i>
           <input class="form-control px-4 text-dark" placeholder="{{ i18n `search_placeholder`}}" readonly>
           <button type="button" class="search-button" data-search-toggler>{{ i18n "search" }}</button>
-        </form>
+        </form> -->
       </div>
     </div>
   </div>
   <!-- /banner -->
-  {{ partial "components/search-modal" . }}
+<!--  {{ partial "components/search-modal" . }} -->
   {{ end }}
   {{ end }}
 </header>

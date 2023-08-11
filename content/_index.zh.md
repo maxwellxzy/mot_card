@@ -7,23 +7,28 @@ banner:
 
 cta:
   enable: true
-  title: "不仅在苏州，全国公交地铁都支持"
-  content: "获取手机NFC交通卡（苏州发行，全国互通）<br>
-  ![test](http://static.runoob.com/images/runoob-logo.png)"
+  title: "限时0元开卡"
+  content: "所有品牌手机（含手表等穿戴设备）免费开通NFC交通卡
+{{< image src=images/nfc/012.png >}}
+"
 
   button:
-    enable: true
-    label: "点击获取"
-    link: "mobile/"
+    enable: true 
+    label: "了解详情"
+    link: "news/free"
 ---
-
-[![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)](https://www.szcic.com/)
--------
+### 手机就是交通卡
+{{< image src="images/nfc/1.jpg" >}}
+-----
 ### 众多手机品牌支持
 
-手机NFC交通卡支持大部分品牌的手机或手表，具体型号可点击品牌名称查询： [小米](mobile/xiaomi) | [华为](mobile/huawei) | [苹果](mobile/apple) | [OPPO](mobile/oppo) | [vivo](mobile/vivo) | [三星](mobile/samsung) | [魅族、一加、摩托罗拉、联想、华米、小天才等](mobile/others) 。
+手机NFC交通卡支持大部分品牌的手机或手表，具体型号可点击品牌名称查询：
 
-[![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)](mobile/)
+{{< button "华为" "/mobile/huawei" >}}
+{{< button "小米" "/mobile/xiaomi" >}}
+{{< button "苹果" "/mobile/apple" >}}
+{{< button "其它手机" "/mobile/others" >}}
+[{{< image src="images/nfc/111.jpg" >}}](mobile/)
 
 --------
 ### 优雅的刷卡乘车
@@ -32,7 +37,9 @@ cta:
 
 只要轻轻一靠，就能轻松过闸
 
-（苹果动图）
+{{< image src="images/nfc/641.gif" >}}
 
 --------
 ### 公共交通优惠
+
+{{< image src="images/nfc/yh2.png" >}}
