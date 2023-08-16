@@ -22,7 +22,9 @@ cta:
 -----
 ### 众多手机品牌支持
 
-手机NFC交通卡支持大部分品牌的手机或手表，具体型号可点击品牌名称查询：
+上百个手机、手表型号支持手机NFC交通卡
+
+具体型号可点击品牌名称查询
 
 {{< button "华为" "/mobile/huawei" >}}
 {{< button "小米" "/mobile/xiaomi" >}}
@@ -43,4 +45,6 @@ cta:
 --------
 ### 公共交通优惠
 
-{{< image src="images/nfc/yh2.png" >}}
+{{< image src="images/nfc/smk33.png" >}}
+
+{{< button "查看使用领域及折扣" "/usage" >}}

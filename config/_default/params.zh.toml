@@ -9,7 +9,7 @@ logo_width = "100px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = ""
+logo_text = "手机NFC交通卡"
 
 # purgeCSS
 purge_css = true

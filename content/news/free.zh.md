@@ -17,10 +17,11 @@ weight: 99
 -----
 ### 如何开通
 
-方法一：下载“智慧苏州”APP，点击首页中部的“手机NFC交通卡”开通。支持 苹果、华为、小米、三星、OPPO、vivo、一加等品牌。
+* 方法一：下载“智慧苏州”APP，点击首页中部的“手机NFC交通卡”或“**虚拟交通卡**”开通。支持 苹果、华为、小米、三星、OPPO、vivo、一加等品牌。
 
-{{< image src="images/nfc/smk1.jpg" >}}
+{{< image src="images/nfc/smk2.jpg" >}}
 
-方法二：在手机自带的“钱包”APP，加载手机交通卡。
+----
+* 方法二：在手机自带的“钱包”APP，加载手机交通卡。以小米为例，打开小米自带的“**钱包**”APP：
 
-{{< image src="images/nfc/mi1.jpg" >}}
+{{< image src="images/nfc/mi2.jpg" >}}

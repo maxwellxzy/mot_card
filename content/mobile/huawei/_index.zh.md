@@ -7,7 +7,30 @@ draft: false
 # search related keywords
 keywords: [""]
 ---
+#### 支持的型号
 
+{{< notice "note" >}}
+  注意：由于品牌更新较快，以下清单可能并未列全所有型号。
+  
+  如您的型号未在清单内，请咨询华为公司，以确定是否支持NFC功能。
+
+{{</ notice >}}
+
+* HUAWEI Mate 系列
+* HUAWEI P 系列
+* HUAWEI X 系列
+
+---
+
+#### 如何开通手机NFC交通卡
+
+---
+
+#### 更换手机时，如何迁卡
+
+---
+
+#### 如何退卡
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
 {{< notice note >}}
